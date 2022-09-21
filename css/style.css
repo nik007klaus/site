@@ -1,22 +1,53 @@
 .me{
-  background-color: #54BAB9;
-  color: #472D2D;
+  background-color: #EAF6F6;
+  color: #66BFBF;
   text-align: center;
   padding: 200px;
 
-  border-width: 6px;
-  border-style: dashed;
+
+
+
+
+}
+.nav{
+  height: 65px;
+  background-color: #16213E;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+
+
+
+
 }
 h1{
   margin: 0;
+  font-size: 4rem;
+
+
+}
+.new{
+  height: 250px;
+  width: 15%;
+
+  margin-top: 30px;
+
+
 
 }
 
 body
 {
   margin: 0;
+    text-align: center;
+
+}
+h2{
+  color: #66BFBF;
+  font-size: 2rem;
+  font-family: sans-serif;
 }
 p{
   margin: 0;
+  font-family: sans-serif;
 
 }
