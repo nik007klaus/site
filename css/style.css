@@ -2,7 +2,31 @@
   background-color: #EAF6F6;
   color: #66BFBF;
   text-align: center;
-  padding: 200px;
+  padding-top: 200px;
+}
+
+.topcld{
+  position: absolute;
+  top: 100px;
+  right: 200px;
+  width: 10%;
+}
+
+.botcld{
+  position: absolute;
+
+  top: 400px;
+  left: 200px;
+  width: 10%;
+
+}
+
+.hill{
+
+  width: 50%;
+  margin: 0 auto;
+  padding: 0;
+
 }
 
 .nav {
@@ -16,14 +40,14 @@
 }
 
 h1 {
-  margin: 0;
+  margin: 100px auto 0;
   font-size: 4rem;
   font-family: 'Sacramento', cursive;
 }
 
 .mypic {
   width: 15%;
-  margin-top: 30px;
+  margin-top: 90px;
 }
 
 body {
@@ -93,12 +117,16 @@ hr {
   padding: 8px 12px;
   color: white;
   font-family: 'Montserrat', sans-serif;
-  margin-top: 30px;
+  margin: 30px auto 10px;
   border-style: none;
   font-weight: bolder;
   border-radius: 6px;
-}
+  display: inline-block;
 
+}
+.button:hover{
+  background-color: #3D8361;
+}
 .last {
 
   background-color: #66BFBF;
