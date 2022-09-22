@@ -80,7 +80,12 @@ hr {
   border-style: dotted none none;
   border-width: 10px;
   color: #D8D8D8;
-  margin-top: 30px;
+  margin: 100px auto ;
+}
+
+.wdt{
+  width: 30%;
+  margin: auto;
 }
 
 .button {
@@ -95,9 +100,10 @@ hr {
 }
 
 .last {
-  height: 200px;
+
   background-color: #66BFBF;
   margin-top: 50px;
+  padding: 30px;
 }
 
 a {
@@ -106,9 +112,4 @@ a {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   padding: 30px;
-}
-
-.sp {
-  margin-bottom: 40px;
-  visibility: hidden;
 }
