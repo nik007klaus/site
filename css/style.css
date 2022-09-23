@@ -158,6 +158,7 @@ a {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   padding: 30px;
+  font-size: 10px;
 }
 .cw{
   width: 30%;
@@ -165,6 +166,6 @@ a {
 }
 
 .dw{
-  font-size: 10px;
-  margin: 10px 20px;
-}
+  
+  
+
