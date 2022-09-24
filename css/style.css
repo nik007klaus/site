@@ -158,14 +158,15 @@ a {
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   padding: 30px;
-  font-size: 10px;
+  width: 5%;
+  margin: auto;
 }
 .cw{
   width: 30%;
   margin: auto;
 }
 
-.dw{
+
   
   
 
