@@ -132,7 +132,7 @@ hr {
   font-size: 25px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
-  width: 15%;
+ 
   margin: 30px auto auto 0;
   display: inline-block;
 }
@@ -153,7 +153,7 @@ hr {
   padding: 30px;
 }
 
-a {
+.dw {
   text-decoration: none;
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
@@ -161,6 +161,10 @@ a {
   padding: 30px;
   width: 5%;
   margin: auto;
+}
+
+.dw:hover{
+  color: #FEFBF6;
 }
 .cw{
   width: 30%;
